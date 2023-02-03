@@ -19,7 +19,7 @@ Si quiero poner un texto en negrita, seguiremos la misma sintaxis, pero usando d
 
 Simplemente, hago un listado de ítems, precedidos por su número o posición. Por ejemplo, el siguiente listado:
 
-1. Primer ítem
+1. Primer ***ítem**
 2. Segundo ítem
 3. Y así sucesivamente...
 

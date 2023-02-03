@@ -64,7 +64,7 @@ Recordad que podréis acceder a todas las prácticas en nuestro [repo *clases-ju
 ## clase de hoy (subir a wiki)
 
  comandos aprendidos --> gedit README.md, git clone https://cnebril2020@github.com/clases-julio/p0-welcome-cnebril2020, git status --> si sale algo sin seguimiento lo podemos añadir con --> git add "nombre del archivo" o "*"
- --> para confirmar los cambios, es decir, subirlo a la nube, hacemos un **git commit -m "funcionalidad nueva"**(cuando ya he puesto las cosas en seguimiento). Si no estuviese en seguimiento hariamos un gt commit -a (amen).
+ --> para confirmar los cambios hacemos un **git commit -m "funcionalidad nueva"**(cuando ya he puesto las cosas en seguimiento). Si no estuviese en seguimiento hariamos un gt commit -a (amen).
  consejo con github --> leer.
  Cuando estas adelantado a lo que hay en la nube, realizar un git push --> pongo el TKN. En este caso el git push ha fallado ¿Por qué? partir de un master modificado a posteriori de tu modificacion. Si permite la fusión (merge)
  es que GitHub lo puede solucionar solo, en caso de que esto no este disponible --> crear otra carpeta de trabajo, donde vuelves a clonar el repositorio, e intento meter todas las modificaciones anteriores (fusión manual)

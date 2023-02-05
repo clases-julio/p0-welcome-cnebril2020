@@ -60,9 +60,9 @@ Aquí podemos ver el logo de GitHub:
 
 Recordad que podréis acceder a todas las prácticas en nuestro [repo *clases-julio*](https://github.com/clases-julio)
 
-## 4. WIKI
+## 4. Wiki
 
-Brand new wiki started [*here*](https://github.com/clases-julio/p0-welcome-cnebril2020/wiki/Carlos-Nebril%C2%B4s-Wiki). I will update all my progress during this months, go there and check it out!
+Brand new wiki started [**here**](https://github.com/clases-julio/p0-welcome-cnebril2020/wiki/Carlos-Nebril%C2%B4s-Wiki). I will update all my progress during this months, go there and check it out!
 
  
  
